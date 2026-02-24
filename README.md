@@ -1,103 +1,51 @@
-<!-- PREMIUM GITHUB PROFILE README -->
+# 👋 Hi, I'm Prince
 
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">🚀 Software Engineering Student | ML Builder | Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=3rd+Year+Software+Engineering+Student+@+VIT+Vellore;Machine+Learning+Developer;Full+Stack+Web+Builder;I+build+cool+AI+systems+🚀" />
-</p>
+🎓 3rd Year Software Engineering Student @ VIT Vellore  
+💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast  
+🚀 I build ML models, web apps, and real-world systems  
 
 ---
 
 ## 🧠 About Me
-
-- 🎓 3rd Year Software Engineering @ VIT Vellore  
-- 🤖 I build Machine Learning systems + Web Apps  
-- ⚡ Love clean UI + efficient backend systems  
-- 🚀 Currently building real-world ML projects  
-- 🧪 Experimenting with AI + system design  
+- Interested in Machine Learning & Full stack development  
+- Love building clean UI + strong backend  
+- Currently working on ML-based web systems  
+- Always learning and shipping projects  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
+**Languages:**  
+Python • C++ • JavaScript  • Typescript • Java
 
-### 🌐 Web Dev
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+**Web Development:**  
+React • Node.js • FastAPI • MongoDB • HTML • CSS • Supabase • Tailwind CSS 
 
-### 🤖 ML / AI
-![Scikit](https://img.shields.io/badge/ScikitLearn-111?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
-![Numpy](https://img.shields.io/badge/Numpy-111?style=for-the-badge&logo=numpy)
+**Machine Learning:**  
+Pandas • NumPy • Scikit-learn  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Web Bot Detection System
-AI system that detects humans vs bots using behavior tracking + ML model.
-
-- FastAPI backend  
-- ML classification  
-- Admin dashboard  
-- Real-time detection  
-
----
-
-### 🌐 Full Stack + ML Projects
-- ML behavior models  
-- Prediction systems  
-- Dashboards  
-- Auth systems  
-- Clean UI + APIs  
+## 🚀 Projects
+- 🤖 Web Bot Detection System (ML + FastAPI + Dashboard)  
+- 🌐 Full-stack web apps  
+- 🧠 ML prediction models  
+- 🛠 Developer tools & experiments  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeekr&show_icons=true&theme=tokyonight&border_radius=12" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=princeekr&theme=tokyonight&border_radius=12" width="48%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=princeekr&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeekr&layout=compact&theme=tokyonight&border_radius=12" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princeekr&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeekr&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/princeekr">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github">
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/prince-kr-23363231a/
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princeekr&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>
-
-<p align="center">
-  ⚡ Building ML systems and full-stack apps 🚀
-</p>
+⭐ Always building, always learning.
