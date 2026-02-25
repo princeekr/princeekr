@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## ⭐ About Me
 - Interested in Machine Learning & Full stack development.  
 - Love building clean UI + strong backend.  
 - Currently working on ML-based web systems.  
