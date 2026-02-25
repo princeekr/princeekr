@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Prince
+# Hi, I'm Prince
 
 🎓 3rd Year Software Engineering Student @ VIT Vellore  
-💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast  
+💻 Full-Stack & 🤖 Machine Learning Developer  
 🚀 I build ML models, web apps, and real-world systems  
 
 ---
 
 ## 🧠 About Me
-- Interested in Machine Learning & Full stack development  
-- Love building clean UI + strong backend  
-- Currently working on ML-based web systems  
-- Always learning and shipping projects  
+- Interested in Machine Learning & Full stack development.  
+- Love building clean UI + strong backend.  
+- Currently working on ML-based web systems.  
+- Always learning and shipping projects.  
 
 ---
 
@@ -31,10 +31,8 @@ Pandas • NumPy • Scikit-learn
 - 🤖 Web Bot Detection System (ML + FastAPI + Dashboard)  
 - 🌐 Full-stack web apps  
 - 🧠 ML prediction models  
-- 🛠 Developer tools & experiments  
 
 ---
-
 
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/prince-kr-23363231a/
