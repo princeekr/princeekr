@@ -23,7 +23,7 @@ Python • C++ • JavaScript  • Typescript • Java • Matlab
 NLP • RAG • scikit-learn • Pandas • Numpy • PyTorch
 
 **Tools:**  
-Github • Jenkins • AWS-EC2 • Azure • n8n (Workflow Automation) 
+Github • Jenkins • Docker • AWS-EC2 • Azure • n8n
 
 **Frameworks and Databases:**  
 Node.js • React.js • Express.js • FastAPI • Supabase • SQL • MongoDB  
