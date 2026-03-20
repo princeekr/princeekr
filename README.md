@@ -1,8 +1,8 @@
 # Hi, I'm Prince
 
 🎓 3rd Year Software Engineering Student @ VIT Vellore  
-💻 Full-Stack & Machine Learning Developer  
-🚀 I build ML models, web apps, and real-world systems  
+💻 Full-Stack & AI / ML Developer  
+🚀 I build AI / ML models, web apps, n8n automations and real-world systems  
 
 ---
 
@@ -17,20 +17,24 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-Python • C++ • JavaScript  • Typescript • Java
+Python • C++ • JavaScript  • Typescript • Java • Matlab
 
-**Web Development:**  
-React • Node.js • FastAPI • MongoDB • HTML • CSS • Supabase • Tailwind CSS 
+**AI / ML:** 
+NLP • RAG • scikit-learn • Pandas • Numpy • PyTorch
 
-**Machine Learning:**  
-Pandas • NumPy • Scikit-learn  
+**Tools:**  
+Github • Jenkins • AWS-EC2 • Azure • n8n (Workflow Automation) 
+
+**Frameworks and Databases:**  
+Node.js • React.js • Express.js • FastAPI • Supabase • SQL • MongoDB  
 
 ---
 
 ## 🚀 Projects
 - 🤖 Web Bot Detection System (ML + FastAPI + Dashboard)  
 - 🌐 Full-stack web apps  
-- 🧠 ML prediction models  
+- 🧠 ML prediction models
+- ⚡ n8n automations
 
 ---
 
