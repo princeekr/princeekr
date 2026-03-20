@@ -7,9 +7,8 @@
 ---
 
 ## ⭐ About Me
-- Interested in Machine Learning & Full stack development.  
-- Love building clean UI + strong backend.  
-- Currently working on ML-based web systems.  
+- Interested in Machine Learning & Artificial intelligence   
+- Currently working on n8n automation systems.  
 - Always learning and shipping projects.  
 
 ---
