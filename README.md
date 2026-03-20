@@ -19,7 +19,7 @@
 **Languages:**  
 Python • C++ • JavaScript  • Typescript • Java • Matlab
 
-**AI / ML:**
+**AI/ML:**  
 NLP • RAG • scikit-learn • Pandas • Numpy • PyTorch
 
 **Tools:**  
