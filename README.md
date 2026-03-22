@@ -1,8 +1,8 @@
 # Hi, I'm Prince
 
 🎓 3rd Year Software Engineering Student @ VIT Vellore  
-💻 Full-Stack & AI / ML Developer  
-🚀 I build AI / ML models, web apps, n8n automations and real-world systems  
+💻 Full-Stack and AI & ML Developer  
+🚀 I build AI & ML models, web apps, n8n automations and real-world systems  
 
 ---
 
